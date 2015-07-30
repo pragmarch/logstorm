@@ -1,0 +1,1 @@
+mvn clean compile exec:java -Dexec.mainClass="com.pragmarch.logstorm.TopologyMain" -Dexec.args="src/main/resources/words.txt"
